@@ -11,7 +11,7 @@ export const Bio = {
 "I'm a full-stack developer, software tester, ethical hacker, and cloud DevOps engineer passionate about technology and innovation. I excel at building and securing high-quality applications, from front-end to back-end and beyond. With a growth mindset and a drive for results, I'm ready to tackle any challenge. I'm eager to contribute my skills and make a real difference in a collaborative environment.",
   github: "https://github.com/mehtahrishi",
 resume:
-    "https://drive.google.com/file/d/19FVqIb9YnCBlmwyX2GGwMQPvxMewhgru/view?usp=sharing",
+    "https://drive.google.com/file/d/1YNSibYn12Xiy7mLD-wcZRrlUpKftTCJh/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/hrishi-mehta-889732256/",
   insta: "https://www.instagram.com/_mehtahrishi/",
 };
@@ -454,19 +454,19 @@ export const education = [
   {
     id: 1,
     img: "https://www.mahahsscboard.in/LogoBord.png",
-    school: "Matruchhaya Junior College",
+    school: "Maharashtra State Board Of Secondary And Higher Secondary Education",
     date: "2022",
     grade: "70.00%",
-    desc: "I completed my Senior Secondary (XII) education from Matruchhaya Junior College under Maharashtra State Board Of Secondary And Higher Secondary Education in Commerce stream.",
+    desc: "I completed my Senior Secondary (XII) education from Matruchhaya Junior College under Maharashtra State Board Of Secondary And Higher Secondary Education in Commerce with IT & Maths stream.",
     degree: "Senior Secondary (XII), Commerce",
   },
   {
     id: 2,
-    img: "https://yt3.googleusercontent.com/ytc/AIdro_nILJKhUN0p63f2qi71Tf3bFkPqqhBsV3lNbbwk1LEbSA=s900-c-k-c0x00ffffff-no-rj",
-    school: "ST PAUL'S HIGH SCHOOL",
+    img: "https://www.mahahsscboard.in/LogoBord.png",
+    school: "Maharashtra State Board Of Secondary And Higher Secondary Education",
     date: "2020",
     grade: "75.00%",
-    desc: "I completed my Secondary (X) education from ST PAUL'S HIGH SCHOOL under Maharashtra State Board Of Secondary And Higher Secondary Education with a percentage of 75.00%.",
+    desc: "I completed my Secondary (X) education from St Paul's High School under Maharashtra State Board Of Secondary And Higher Secondary Education with a percentage of 75.00%.",
     degree: "Secondary (X), Science",
   },
 ];
