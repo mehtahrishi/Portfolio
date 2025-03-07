@@ -513,16 +513,16 @@ export const projects = [
  
   {
     id: 2,
-    title: "Foodie Console Based Chatbot",
+    title: "Foodie Console & Web Based Chatbot",
     date: "Sep 2024",
     description:
-      "A Foodie Console Based Chatbot made using Python, XML, and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
+      "A Foodie Console and Web Based Chatbot made using Python, XML, and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/foodie-chatbot.png?alt=media&token=foodiechatbot",
+      "https://github.com/mehtahrishi/Foodie/blob/main/Screenshot%202025-03-07%20121628.png?raw=true",
     tags: ["Python (Programming Language)", "XML", "AIML", "API Development"],
     category: "console app",
     github: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
-    webapp: "",
+    webapp: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
   },
   {
     id: 3,
