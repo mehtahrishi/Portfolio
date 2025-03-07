@@ -477,11 +477,11 @@ export const projects = [
     title: "iCoder Frontend",
     date: "Nov 2023",
     description: "iCoder is a frontend website built with HTML, CSS, and Bootstrap for tech enthusiasts. It showcases various tech-related content in a user-friendly layout.",
-    image: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/icoder.png?alt=media&token=icoderfrontend",
+    image: "https://github.com/mehtahrishi/iCoder/blob/main/Screenshot%202025-03-07%20122336.png?raw=true",
     tags: ["HTML", "Cascading Style Sheets (CSS)", "Bootstrap (Framework)"],
     category: "web app",
     github: "https://github.com/username/iCoderFrontend",
-    webapp: ""
+    webapp: "https://mehtahrishi.github.io/iCoder/"
   },
   {
     id: 1,
