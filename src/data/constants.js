@@ -11,7 +11,7 @@ export const Bio = {
 "I'm a full-stack developer, software tester, ethical hacker, and cloud DevOps engineer passionate about technology and innovation. I excel at building and securing high-quality applications, from front-end to back-end and beyond. With a growth mindset and a drive for results, I'm ready to tackle any challenge. I'm eager to contribute my skills and make a real difference in a collaborative environment.",
   github: "https://github.com/mehtahrishi",
 resume:
-    "https://res.cloudinary.com/dfzqhhywm/image/upload/v1741271415/HrishiMehta_InternshalaResume_1_w9st6v.pdf",
+    "https://drive.google.com/file/d/1BQRky0sgzz0mUTaOyWj7LKnLWoGl_QHf/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/hrishi-mehta-889732256/",
   insta: "https://www.instagram.com/_mehtahrishi/",
 };
@@ -48,6 +48,16 @@ export const skills = [
         name: "Hydra",
         image:
           "https://hackblue.org/images/hydra-logo.svg",
+      },
+      {
+        name: "HashCat",
+        image:
+          "https://avatars.githubusercontent.com/u/1167295?v=4",
+      },
+      {
+        name: "Nessus",
+        image:
+          "https://safe.security/wp-content/uploads/nessus-nessuslogo.png",
       },
       {
         name: "Kali Linux",
@@ -141,7 +151,7 @@ export const skills = [
 
       {
         name: "Express JS",
-        image:"https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/express/express-original.svg",
+        image:"https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png",
       },
       {
         name: "Java",
@@ -351,10 +361,23 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
+    role: "Python Developer Intern",
+    company: "VaultOfCodes",
+    date: "March 2025 - April 2025",
+    desc: "Developing Python-based solutions and working on Python & liraries",
+    skills: [
+      
+      "Python","Numpy","MatPlotlib","Sci-Kit Learn",
+      
+    ],
+  },
+  {
+    id: 1,
     img: "https://s3-eu-west-1.amazonaws.com/tpd/logos/645ca753484ec7b9c3eac245/0x0.png",
     role: "Artificial Intelligence (AI) Intern",
     company: "INeuBytes",
-    date: "Mar 2025 - Present",
+    date: "Mar 2025 - April 2025",
     desc: "Developing AI-based solutions and working on machine learning algorithms.",
     skills: [
       "Python",
@@ -365,7 +388,7 @@ export const experiences = [
     ],
   },
   {
-    id: 1,
+    id: 2,
     img: "https://media.licdn.com/dms/image/v2/C4E0BAQHn10ja2QyoTw/company-logo_200_200/company-logo_200_200/0/1630649583584/microsoft_learn_student_ambassadors_logo?e=2147483647&v=beta&t=UAQ2xo64vR_BJDQHUF9hn5GHKH56STtCdKD7rd1sGs0",
     role: "Microsoft Learn Student Ambassador",
     company: "Microsoft Learn Student Ambassadors",
@@ -379,7 +402,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "VaultOfCodes",
@@ -394,7 +417,7 @@ export const experiences = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     img: "https://media.licdn.com/dms/image/v2/C560BAQHbRc4KalclmA/company-logo_200_200/company-logo_200_200/0/1676715857373?e=2147483647&v=beta&t=XUYYqixCLqqWCiNLro3MdZH-mHvqFl3yJ5D9blVH_Mk",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "TechnoHacks EduTech Official",
@@ -409,7 +432,7 @@ export const experiences = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     img: "https://p.urbanpro.com/tv-prod/member/photo/4142883-large.jpg",
     role: "Java Software Developer Intern",
     company: "SDAC",
@@ -548,6 +571,17 @@ export const projects = [
     category: "web app",
     github: "https://github.com/mehtahrishi/Dashboard",
     webapp: "https://mehtahrishi.github.io/Dashboard/index.html",
+  },
+  {
+    id: 4,
+    title: "MCU / DCEU",
+    date: "March 2025 - March 2025",
+    description: "Choose Your Universe & Become a superhuman.",
+    image: "https://github.com/mehtahrishi/Gen-AI-Pieces/blob/main/Screenshot%202025-03-09%20155546.png?raw=true", 
+    tags: ["HTML5", "Cascading Style Sheets (CSS)", "JavaScript","Pieces AI"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Gen-AI-Pieces",
+    webapp: "https://mehtahrishi.github.io/Gen-AI-Pieces/",
   }
  
 
