@@ -138,7 +138,7 @@ export const skills = [
     skills: [
       {
         name: "Python",
-        image: "https://spaces-cdn.clipsafari.com/zfdcbo72px0of6jlw2zxfpzys1l8",
+        image: "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/python/python-original.svg",
       },
       {
         name: "C",
