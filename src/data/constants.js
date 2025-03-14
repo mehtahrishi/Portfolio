@@ -386,7 +386,7 @@ export const experiences = [
     skills: [
       "Python",
       "Machine Learning",
-      "AI Models",
+      "AI Models", "Pandas", " NumPy "," NLTK","Torch","NLP",
       "TensorFlow",
       "Data Analysis",
     ],
@@ -505,73 +505,73 @@ export const projects = [
     date: "Nov 2023",
     description: "iCoder is a frontend website built with HTML, CSS, and Bootstrap for tech enthusiasts. It showcases various tech-related content in a user-friendly layout.",
     image: "https://github.com/mehtahrishi/iCoder/blob/main/Screenshot%202025-03-07%20122336.png?raw=true",
-    tags: ["HTML", "Cascading Style Sheets (CSS)", "Bootstrap (Framework)"],
+    tags: ["HTML", "CSS", "Bootstrap (Framework)"],
     category: "web app",
     github: "https://github.com/username/iCoderFrontend",
     webapp: "https://mehtahrishi.github.io/iCoder/"
   },
-  {
-    id: 1,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
+  // {
+  //   id: 1,
+  //   title: "Brain Tumor Detection",
+  //   date: "Jan 2023 - Mar 2023",
+  //   description:
+  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+  //   image:
+  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+  //   category: "machine learning",
+  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+  //   webapp: "https://brain-tumor.netlify.app/",
+  //   member: [
+  //     {
+  //       name: "Rishav Chanda",
+  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  //       github: "https://github.com/rishavchanda/",
+  //     },
+  //     {
+  //       name: "Upasana Chaudhuri",
+  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+  //       github: "https://github.com/upasana0710",
+  //     },
+  //   ],
+  // },
  
   {
-    id: 2,
+    id: 1,
     title: "Foodie Console & Web Based Chatbot",
     date: "Sep 2024",
     description:
       "A Foodie Console and Web Based Chatbot made using Python, XML, and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
     image:
       "https://github.com/mehtahrishi/Foodie/blob/main/Screenshot%202025-03-07%20121628.png?raw=true",
-    tags: ["Python (Programming Language)", "XML", "AIML", "API Development"],
+    tags: ["Python", "XML", "AIML", "API Development"],
     category: "console app",
     github: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
     webapp: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
   },
   {
-    id: 3,
+    id: 2,
     title: "Tech Savvy Assistant Chatbot",
     date: "Jan 2025",
     description:
       "A Savier for Developers, Engineers, Testers, and Hardware Individuals who get stuck in errors and issues in tools, software, hardware, and hardware components. She can help you with her intelligence.",
     image:
       "https://res.cloudinary.com/dfzqhhywm/image/upload/v1741232077/Screenshot_2025-03-06_090420_ffx1qk.png",
-    tags: ["React.js", "Chatbot Development", "LiveChat ChatBot", "OpenAI API"],
+    tags: ["ReactJS", "Chatbot Development", "LiveChat ChatBot", "OpenAI API"],
     category: "web app",
     github: "https://github.com/mehtahrishi/Tech-Savvy",
     webapp: "https://tech-savvy-three.vercel.app/",
   },
 
   {
-    id: 4,
+    id: 3,
     title: "Admin Dashboard Frontend",
-    date: "Jan 2025 - Jan 2025",
+    date: "Jan 2025",
     description: "A dummy dashboard just for the sake of UI.",
     image: "https://github.com/BobsProgrammingAcademy/responsive-sales-dashboard/raw/master/images/large.png?raw=true", 
-    tags: ["HTML5", "Cascading Style Sheets (CSS)", "JavaScript"],
+    tags: ["HTML5", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/mehtahrishi/Dashboard",
     webapp: "https://mehtahrishi.github.io/Dashboard/index.html",
@@ -579,13 +579,24 @@ export const projects = [
   {
     id: 4,
     title: "MCU / DCEU",
-    date: "March 2025 - March 2025",
+    date: "March 2025",
     description: "Choose Your Universe & Become a superhuman.",
     image: "https://github.com/mehtahrishi/Gen-AI-Pieces/blob/main/Screenshot%202025-03-09%20155546.png?raw=true", 
-    tags: ["HTML5", "Cascading Style Sheets (CSS)", "JavaScript","Pieces AI"],
+    tags: ["HTML5", "CSS", "JavaScript","Pieces AI"],
     category: "web app",
     github: "https://github.com/mehtahrishi/Gen-AI-Pieces",
     webapp: "https://mehtahrishi.github.io/Gen-AI-Pieces/",
+  },
+  {
+    id: 5,
+    title: "Full-Stack AI Movie Recommendation System",
+    date: "March 2025",
+    description: "The Movie Recommendation System is a full-stack AI application that suggests movies based on user preferences. It integrates machine learning, NLP techniques, and a Flask-based API to deliver personalized recommendations. The web application is built using Flask for the backend and HTML, CSS, and JavaScript for the frontend, and is deployed on Render.",
+    image: "https://github.com/mehtahrishi/Movie_Recommendation_System/blob/main/ss.png?raw=true",
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Scikit-learn", "Pandas", " NumPy ", "TensorFlow"," NLTK","Torch","ML","NLP"],
+    category: "machine learning",
+    github: "https://github.com/mehtahrishi/Movie_Recommendation_System",
+    webapp: "https://movie-recommendation-system-twuz.onrender.com/",
   }
  
 
