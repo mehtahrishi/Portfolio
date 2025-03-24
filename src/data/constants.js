@@ -328,7 +328,7 @@ export const skills = [
           "https://techbagfrontend.s3-ap-south-1.amazonaws.com/logos/wTuCVuR7naSPAXxd45mC5S.png",
       },
       {
-        name: "Gemini AI",
+        name: "Gemini",
         image:
           "https://cdn.freelogovectors.net/wp-content/uploads/2024/02/gemini_logo-chatbot-freelogovectors.net_.png",
       },
@@ -361,6 +361,15 @@ export const skills = [
         name: "Excel",
         image:
           "https://www.freeiconspng.com/thumbs/xls-icon/microsoft-office-mac-tilt-excel-icon-17.png",
+      },
+      {
+        name: "Numpy",
+        image:
+          "https://static-00.iconduck.com/assets.00/file-type-numpy-icon-950x1024-yxmpudmi.png",
+      },{
+        name: "Pandas",
+        image:
+          "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29192324/pandas-icon-logo-BE10401BF1-seeklogo.com.png",
       },
      
     ],
