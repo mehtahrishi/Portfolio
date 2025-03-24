@@ -195,6 +195,11 @@ export const skills = [
         image:
           "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mysql/mysql-original.svg",
       },
+      {
+        name: "SQLite",
+        image:
+          "https://sqlitebrowser.org/images/sqlitebrowser.svg",
+      },
     ],
   },
   {
@@ -372,7 +377,7 @@ export const experiences = [
     desc: "Developing Python-based solutions and working on Python & liraries",
     skills: [
       
-      "Python","Numpy","MatPlotlib","Sci-Kit Learn",
+      "Python","Numpy","HTML","CSS","Flask","Django","Flask-Migrations","SQLite","OOP","Procfile"
       
     ],
   },
@@ -597,7 +602,18 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/mehtahrishi/Movie_Recommendation_System",
     webapp: "https://movie-recommendation-system-twuz.onrender.com/",
-  }
+  },
+  {
+    id: 6,
+    title: "Student Performance Tracker",
+    date: "March 2025",
+    description: "Developed a Python application that allows teachers to track student performance in different subjects. The application will be converted into a web-based project and deployed online to make it accessible.",
+    image: "https://github.com/mehtahrishi/Student-Performance-Tracker/blob/main/Screenshot%202025-03-24%20063002.png?raw=true",
+    tags: ["HTML5", "CSS", "JavaScript","Flask","Flask-Migrations", "SQLite","Procfile","OnRender"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Student-Performance-Tracker",
+    webapp: "https://student-performance-tracker-qlac.onrender.com/",
+  },
  
 
 ];
