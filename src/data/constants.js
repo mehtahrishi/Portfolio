@@ -407,20 +407,6 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHn10ja2QyoTw/company-logo_200_200/company-logo_200_200/0/1630649583584/microsoft_learn_student_ambassadors_logo?e=2147483647&v=beta&t=UAQ2xo64vR_BJDQHUF9hn5GHKH56STtCdKD7rd1sGs0",
-    role: "Microsoft Learn Student Ambassador",
-    company: "Microsoft Learn Student Ambassadors",
-    date: "Jan 2025 - Present",
-    desc: "Engaging with communities and sharing knowledge through various Microsoft platforms.",
-    skills: [
-      "Leadership",
-      "Microsoft Azure",
-      "Community Engagement",
-      "Community Influencer",
-    ],
-  },
-  {
-    id: 3,
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "VaultOfCodes",
@@ -435,7 +421,7 @@ export const experiences = [
     ],
   },
   {
-    id: 4,
+    id: 3,
     img: "https://media.licdn.com/dms/image/v2/C560BAQHbRc4KalclmA/company-logo_200_200/company-logo_200_200/0/1676715857373?e=2147483647&v=beta&t=XUYYqixCLqqWCiNLro3MdZH-mHvqFl3yJ5D9blVH_Mk",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "TechnoHacks EduTech Official",
@@ -450,7 +436,7 @@ export const experiences = [
     ],
   },
   {
-    id: 5,
+    id: 4,
     img: "https://p.urbanpro.com/tv-prod/member/photo/4142883-large.jpg",
     role: "Java Software Developer Intern",
     company: "SDAC",
@@ -465,14 +451,14 @@ export const experiences = [
      " Databases",
       "HTML5",
       
-      "Cascading Style Sheets (CSS)",
+      "CSS",
       "Tomcat 5",
       "XAMPP",
-      "Bootstrap (Framework)",
+      "Bootstrap",
       
       "POJO",
 
-      "JavaServer Pages (JSP)",
+      "JSP",
       
       "JavaScript",
      
