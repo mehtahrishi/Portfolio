@@ -64,6 +64,11 @@ export const skills = [
         image:
           "https://www.snel.com/wp-content/uploads/Ontwerp-zonder-titel-3-3.png",
       },
+      {
+        name: "Garuda Linux",
+        image:
+          "https://garudalinux.org/assets/garuda-purple.svg",
+      },
     ],
   },
   {
@@ -166,10 +171,7 @@ export const skills = [
         name: "PHP",
         image: "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/php/php-original.svg",
       },
-      {
-        name: "XML",
-        image: "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/xml/xml-original.svg",
-      },
+      
     ],
   },
   {
@@ -240,11 +242,7 @@ export const skills = [
         image:
           "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png",
       },
-      {
-        name: "Netlify",
-        image:
-          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/netlify/netlify-original.svg",
-      },
+      
       {
         name: "Nginx",
         image:
@@ -274,6 +272,11 @@ export const skills = [
         name: "Prometheus",
         image:
           "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/prometheus/prometheus-original.svg",
+      },
+      {
+        name: "Grafana",
+        image:
+          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/grafana/grafana-original.svg",
       },
       {
         name: "Ansible",
@@ -589,7 +592,7 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Full-Stack AI Movie Recommendation System",
+    title: "Movie Recommendation System",
     date: "March 2025",
     description: "The Movie Recommendation System is a full-stack AI application that suggests movies based on user preferences. It integrates machine learning, NLP techniques, and a Flask-based API to deliver personalized recommendations. The web application is built using Flask for the backend and HTML, CSS, and JavaScript for the frontend, and is deployed on Render.",
     image: "https://github.com/mehtahrishi/Movie_Recommendation_System/blob/main/ss.png?raw=true",
