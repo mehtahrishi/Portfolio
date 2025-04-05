@@ -502,17 +502,6 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 0,
-    title: "iCoder Frontend",
-    date: "Nov 2023",
-    description: "iCoder is a frontend website built with HTML, CSS, and Bootstrap for tech enthusiasts. It showcases various tech-related content in a user-friendly layout.",
-    image: "https://github.com/mehtahrishi/iCoder/blob/main/Screenshot%202025-03-07%20122336.png?raw=true",
-    tags: ["HTML", "CSS", "Bootstrap (Framework)"],
-    category: "web app",
-    github: "https://github.com/username/iCoderFrontend",
-    webapp: "https://mehtahrishi.github.io/iCoder/"
-  },
   // {
   //   id: 1,
   //   title: "Brain Tumor Detection",
@@ -542,7 +531,7 @@ export const projects = [
   // },
  
   {
-    id: 1,
+    id: 0,
     title: "Foodie Console & Web Based Chatbot",
     date: "Sep 2024",
     description:
@@ -555,7 +544,7 @@ export const projects = [
     webapp: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
   },
   {
-    id: 2,
+    id: 1,
     title: "Tech Savvy Assistant Chatbot",
     date: "Jan 2025",
     description:
@@ -567,20 +556,8 @@ export const projects = [
     github: "https://github.com/mehtahrishi/Tech-Savvy",
     webapp: "https://tech-savvy-three.vercel.app/",
   },
-
   {
-    id: 3,
-    title: "Admin Dashboard Frontend",
-    date: "Jan 2025",
-    description: "A dummy dashboard just for the sake of UI.",
-    image: "https://github.com/BobsProgrammingAcademy/responsive-sales-dashboard/raw/master/images/large.png?raw=true", 
-    tags: ["HTML5", "CSS", "JavaScript"],
-    category: "web app",
-    github: "https://github.com/mehtahrishi/Dashboard",
-    webapp: "https://mehtahrishi.github.io/Dashboard/index.html",
-  },
-  {
-    id: 4,
+    id: 2,
     title: "MCU / DCEU",
     date: "March 2025",
     description: "Choose Your Universe & Become a superhuman.",
@@ -591,7 +568,7 @@ export const projects = [
     webapp: "https://mehtahrishi.github.io/Gen-AI-Pieces/",
   },
   {
-    id: 5,
+    id: 3,
     title: "Movie Recommendation System",
     date: "March 2025",
     description: "The Movie Recommendation System is a full-stack AI application that suggests movies based on user preferences. It integrates machine learning, NLP techniques, and a Flask-based API to deliver personalized recommendations. The web application is built using Flask for the backend and HTML, CSS, and JavaScript for the frontend, and is deployed on Render.",
@@ -602,17 +579,49 @@ export const projects = [
     webapp: "https://movie-recommendation-system-twuz.onrender.com/",
   },
   {
-    id: 6,
+    id: 4,
     title: "Student Performance Tracker",
     date: "March 2025",
     description: "Developed a Python application that allows teachers to track student performance in different subjects. The application will be converted into a web-based project and deployed online to make it accessible.",
     image: "https://github.com/mehtahrishi/Student-Performance-Tracker/blob/main/Screenshot%202025-03-24%20063002.png?raw=true",
-    tags: ["HTML5", "CSS", "JavaScript","Flask","Flask-Migrations", "SQLite","Procfile","OnRender"],
+    tags: ["HTML5", "CSS", "JavaScript","Flask","Flask-Migrations", "SQLite","Procfile","Render"],
     category: "web app",
     github: "https://github.com/mehtahrishi/Student-Performance-Tracker",
     webapp: "https://student-performance-tracker-qlac.onrender.com/",
   },
- 
+  {
+    id: 5,
+    title: "Task Manager",
+    date: "April 2025",
+    description: "This Task Manager application, built with Flask, integrates a Neo4j graph database to store and manage tasks securely. It features user authentication with login and registration functionality, ensuring personalized task storage. The app uses a sleek Glassmorphic UI for a modern, translucent design. Users can create, edit, and delete tasks, which are stored and queried efficiently in Neo4j. The app is deployed on Render, making it accessible online.",
+    image: "https://github.com/mehtahrishi/Task-App/blob/main/Screenshot%202025-04-06%20025755.png?raw=true", 
+    tags: ["HTML5", "CSS", "JavaScript","Flask","Flask Login","Render","Neo4j","Procfile"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Task-App",
+    webapp: "https://task-app-hpe3.onrender.com",
+  },
+  {
+    id: 6,
+    title: "Admin Dashboard Frontend",
+    date: "Jan 2025",
+    description: "A dummy dashboard just for the sake of UI.",
+    image: "https://github.com/BobsProgrammingAcademy/responsive-sales-dashboard/raw/master/images/large.png?raw=true", 
+    tags: ["HTML5", "CSS", "JavaScript"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Dashboard",
+    webapp: "https://mehtahrishi.github.io/Dashboard/index.html",
+  },
+  {
+    id: 7,
+    title: "iCoder Frontend",
+    date: "Nov 2023",
+    description: "iCoder is a frontend website built with HTML, CSS, and Bootstrap for tech enthusiasts. It showcases various tech-related content in a user-friendly layout.",
+    image: "https://github.com/mehtahrishi/iCoder/blob/main/Screenshot%202025-03-07%20122336.png?raw=true",
+    tags: ["HTML", "CSS", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/username/iCoderFrontend",
+    webapp: "https://mehtahrishi.github.io/iCoder/"
+  },
 
 ];
 
