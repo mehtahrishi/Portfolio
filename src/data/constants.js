@@ -539,7 +539,7 @@ export const projects = [
     image:
       "https://github.com/mehtahrishi/Foodie-Inc./blob/main/image.png?raw=true",
     tags: ["Python", "XML", "AIML", "API Development"],
-    category: "web app, console app",
+    category: "web app",
     github: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
     webapp: "https://github.com/mehtahrishi/Foodie-Inc.",
   },
