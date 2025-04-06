@@ -537,11 +537,11 @@ export const projects = [
     description:
       "A Foodie Console and Web Based Chatbot made using Python, XML, and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
     image:
-      "https://github.com/mehtahrishi/Foodie/blob/main/Screenshot%202025-03-07%20121628.png?raw=true",
+      "https://github.com/mehtahrishi/Foodie-Inc./blob/main/image.png?raw=true",
     tags: ["Python", "XML", "AIML", "API Development"],
-    category: "console app",
+    category: "web app, console app",
     github: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
-    webapp: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
+    webapp: "https://github.com/mehtahrishi/Foodie-Inc.",
   },
   {
     id: 1,
@@ -580,6 +580,17 @@ export const projects = [
   },
   {
     id: 4,
+    title: "Console Based Task Manager",
+    date: "March 2025",
+    description: "This Python script provides a basic command-line interface for managing your to-do list. It allows you to add, view, mark as complete, edit, delete, and sort your tasks. It also includes a feature to send desktop notifications for tasks due within the next three days.",
+    image: "https://github.com/mehtahrishi/Console-based-task-manager/blob/main/ss.png?raw=true",
+    tags: ["Python","Powershell"],
+    category: "console app",
+    github: "https://github.com/mehtahrishi/Console-based-task-manager",
+    webapp: "https://github.com/mehtahrishi/Console-based-task-manager",
+  },
+  {
+    id: 5,
     title: "Student Performance Tracker",
     date: "March 2025",
     description: "Developed a Python application that allows teachers to track student performance in different subjects. The application will be converted into a web-based project and deployed online to make it accessible.",
@@ -590,7 +601,7 @@ export const projects = [
     webapp: "https://student-performance-tracker-qlac.onrender.com/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Task Manager",
     date: "April 2025",
     description: "This Task Manager application, built with Flask, integrates a Neo4j graph database to store and manage tasks securely. It features user authentication with login and registration functionality, ensuring personalized task storage. The app uses a sleek Glassmorphic UI for a modern, translucent design. Users can create, edit, and delete tasks, which are stored and queried efficiently in Neo4j. The app is deployed on Render, making it accessible online.",
@@ -601,7 +612,7 @@ export const projects = [
     webapp: "https://task-app-hpe3.onrender.com",
   },
   {
-    id: 6,
+    id: 7,
     title: "Admin Dashboard Frontend",
     date: "Jan 2025",
     description: "A dummy dashboard just for the sake of UI.",
@@ -612,14 +623,14 @@ export const projects = [
     webapp: "https://mehtahrishi.github.io/Dashboard/index.html",
   },
   {
-    id: 7,
+    id: 8,
     title: "iCoder Frontend",
     date: "Nov 2023",
     description: "iCoder is a frontend website built with HTML, CSS, and Bootstrap for tech enthusiasts. It showcases various tech-related content in a user-friendly layout.",
     image: "https://github.com/mehtahrishi/iCoder/blob/main/Screenshot%202025-03-07%20122336.png?raw=true",
     tags: ["HTML", "CSS", "Bootstrap"],
     category: "web app",
-    github: "https://github.com/username/iCoderFrontend",
+    github: "https://github.com/mehtahrishi/iCoder",
     webapp: "https://mehtahrishi.github.io/iCoder/"
   },
 
