@@ -11,7 +11,7 @@ export const Bio = {
 "I'm a full-stack developer, software tester, ethical hacker, and cloud DevOps engineer passionate about technology and innovation. I excel at building and securing high-quality applications, from front-end to back-end and beyond. With a growth mindset and a drive for results, I'm ready to tackle any challenge. I'm eager to contribute my skills and make a real difference in a collaborative environment.",
   github: "https://github.com/mehtahrishi",
 resume:
-    "https://drive.google.com/file/d/1BQRky0sgzz0mUTaOyWj7LKnLWoGl_QHf/view?usp=sharing",
+    "https://profile.indeed.com/p/hrishim-jdb8j4j",
   linkedin: "https://www.linkedin.com/in/hrishi-mehta-889732256/",
   insta: "https://www.instagram.com/_mehtahrishi/",
 };
