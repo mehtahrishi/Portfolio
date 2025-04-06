@@ -180,7 +180,7 @@ export const skills = [
       {
         name: "Neo4j",
         image:
-          "https://static-00.iconduck.com/assets.00/neo4j-icon-1808x2048-22lbowan.png",
+          "https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/neo4j.png",
       },
       {
         name: "MongoDB",
@@ -532,16 +532,16 @@ export const projects = [
  
   {
     id: 0,
-    title: "Foodie Console & Web Based Chatbot",
-    date: "Sep 2024",
+    title: "Foodie Chatbot",
+    date: "April 2025",
     description:
-      "A Foodie Console and Web Based Chatbot made using Python, XML, and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
+      "A Foodie Web Based Chatbot made using Python, XML, HTML, CSS ,Flask and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
     image:
       "https://github.com/mehtahrishi/Foodie-Inc./blob/main/image.png?raw=true",
-    tags: ["Python", "XML", "AIML", "API Development"],
+    tags: ["Python", "XML", "AIML", "HTML","Flask","CSS","Procfile","API Development"],
     category: "web app",
-    github: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
-    webapp: "https://github.com/mehtahrishi/Foodie-Inc.",
+    github: "https://github.com/mehtahrishi/Foodie-Inc./",
+    webapp: "https://github.com/mehtahrishi/Foodie-Inc./",
   },
   {
     id: 1,
@@ -613,6 +613,19 @@ export const projects = [
   },
   {
     id: 7,
+    title: "Foodie Console Chatbot",
+    date: "Sep 2024",
+    description:
+      "A Foodie Console Based Chatbot made using Python, XML, and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
+    image:
+      "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot/blob/main/Screenshot%202025-04-06%20163907.png?raw=true",
+    tags: ["Python", "XML", "AIML","API Development"],
+    category: "console app",
+    github: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
+    webapp: "https://github.com/mehtahrishi/Foodie-Inc.-Chatbot",
+  },
+  {
+    id: 8,
     title: "Admin Dashboard Frontend",
     date: "Jan 2025",
     description: "A dummy dashboard just for the sake of UI.",
@@ -623,7 +636,7 @@ export const projects = [
     webapp: "https://mehtahrishi.github.io/Dashboard/index.html",
   },
   {
-    id: 8,
+    id: 9,
     title: "iCoder Frontend",
     date: "Nov 2023",
     description: "iCoder is a frontend website built with HTML, CSS, and Bootstrap for tech enthusiasts. It showcases various tech-related content in a user-friendly layout.",
