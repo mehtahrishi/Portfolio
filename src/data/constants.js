@@ -637,25 +637,14 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Admin Dashboard Frontend",
-    date: "Jan 2025",
-    description: "A dummy dashboard just for the sake of UI.",
-    image: "https://github.com/BobsProgrammingAcademy/responsive-sales-dashboard/raw/master/images/large.png?raw=true", 
-    tags: ["HTML5", "CSS", "JavaScript"],
+    title: "QR Generator",
+    date: "April 2025",
+    description: "Instant QR Code Generator. Convert text or links into scannable QR codes in seconds. Fast, secure, and perfect for sharing anything with a simple scan!",
+    image: "https://github.com/mehtahrishi/QR--Generator/blob/main/image.png?raw=true", 
+    tags: ["HTML5", "CSS", "JavaScript","Python","Flask","Procfile","QR"],
     category: "web app",
-    github: "https://github.com/mehtahrishi/Dashboard",
-    webapp: "https://mehtahrishi.github.io/Dashboard/index.html",
-  },
-  {
-    id: 10,
-    title: "iCoder Frontend",
-    date: "Nov 2023",
-    description: "iCoder is a frontend website built with HTML, CSS, and Bootstrap for tech enthusiasts. It showcases various tech-related content in a user-friendly layout.",
-    image: "https://github.com/mehtahrishi/iCoder/blob/main/Screenshot%202025-03-07%20122336.png?raw=true",
-    tags: ["HTML", "CSS", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/mehtahrishi/iCoder",
-    webapp: "https://mehtahrishi.github.io/iCoder/"
+    github: "https://github.com/mehtahrishi/QR--Generator",
+    webapp: "https://qr-generator-512f.onrender.com/",
   },
 
 ];
