@@ -8,7 +8,7 @@ export const Bio = {
     "Automation Tester"
   ],
   description:
-"I'm a full-stack developer, software tester, ethical hacker, and cloud DevOps engineer passionate about technology and innovation. I excel at building and securing high-quality applications, from front-end to back-end and beyond. With a growth mindset and a drive for results, I'm ready to tackle any challenge. I'm eager to contribute my skills and make a real difference in a collaborative environment.",
+"I'm a full-stack developer, software tester, ethical hacker, aiml engineer and cloud DevOps engineer passionate about technology and innovation. I excel at building and securing high-quality applications, from front-end to back-end and beyond. With a growth mindset and a drive for results, I'm ready to tackle any challenge. I'm eager to contribute my skills and make a real difference in a collaborative environment.",
   github: "https://github.com/mehtahrishi",
 resume:
     "https://profile.indeed.com/p/hrishim-jdb8j4j",
@@ -84,11 +84,7 @@ export const skills = [
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
-      {
-        name: "Next JS",
-        image:
-          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nextjs/nextjs-original.svg",
-      },
+     
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -163,13 +159,8 @@ export const skills = [
         image:"https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png",
       },
       {
-        name: "Java",
-        image:
-          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/java/java-original.svg",
-      },
-      {
-        name: "PHP",
-        image: "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/php/php-original.svg",
+        name: "Flask",
+        image: "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/flask/flask-original.svg",
       },
       
     ],
@@ -344,6 +335,11 @@ export const skills = [
         name: "Co Pilot",
         image:
           "https://img.icons8.com/ios_filled/200/FFFFFF/microsoft-copilot.png",
+      },
+      {
+        name: "Groq",
+        image:
+          "https://www.primarymarkets.com/wp-content/uploads/2024/05/Groq-circle-logo-1.png",
       },
     ],
   },
@@ -613,7 +609,7 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Foodie Console Chatbot",
+    title: "Console Based Foodie Chatbot",
     date: "Sep 2024",
     description:
       "A Foodie Console Based Chatbot made using Python, XML, and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
@@ -626,17 +622,6 @@ export const projects = [
   },
   {
     id: 8,
-    title: "MCU / DCEU",
-    date: "March 2025",
-    description: "Choose Your Universe & Become a superhuman.",
-    image: "https://github.com/mehtahrishi/Gen-AI-Pieces/blob/main/Screenshot%202025-03-09%20155546.png?raw=true", 
-    tags: ["HTML5", "CSS", "JavaScript","Pieces AI"],
-    category: "web app",
-    github: "https://github.com/mehtahrishi/Gen-AI-Pieces",
-    webapp: "https://mehtahrishi.github.io/Gen-AI-Pieces/",
-  },
-  {
-    id: 9,
     title: "QR Generator",
     date: "April 2025",
     description: "Instant QR Code Generator. Convert text or links into scannable QR codes in seconds. Fast, secure, and perfect for sharing anything with a simple scan!",
@@ -646,6 +631,18 @@ export const projects = [
     github: "https://github.com/mehtahrishi/QR--Generator",
     webapp: "https://qr-generator-512f.onrender.com/",
   },
+  {
+    id: 9,
+    title: "AI CoAgent",
+    date: "April 2025",
+    description: "This AI-powered web app is built using Flask and integrates the Groq API for lightning-fast, intelligent responses. Users can interact with the AI agent through a sleek, user-friendly interface. It supports natural language queries, code explanations, and troubleshooting assistance. The backend handles real-time API calls and response rendering securely and efficiently. Perfect for developers and learners seeking an offline-ready AI coding companion.",
+    image: "https://github.com/mehtahrishi/CoAgent/blob/main/image.png?raw=true", 
+    tags: ["HTML5", "CSS", "JavaScript","Python","Flask","Procfile","Groq"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/CoAgent",
+    webapp: "https://coagent.onrender.com/",
+  },
+
 
 ];
 
