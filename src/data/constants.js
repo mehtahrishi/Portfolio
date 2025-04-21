@@ -642,6 +642,17 @@ export const projects = [
     github: "https://github.com/mehtahrishi/CoAgent",
     webapp: "https://coagent.onrender.com/",
   },
+  {
+    id: 10,
+    title: "Job-Z",
+    date: "April 2025",
+    description: "Job-Z is a role-based platform connecting job seekers and recruiters. Job seekers apply for roles, while recruiters from companies post them. Built with a full-stack, it offers a user-friendly experience for efficient talent acquisition and job searching.",
+    image: "https://github.com/mehtahrishi/Job-Z-Local/blob/main/image.png?raw=true", 
+    tags: ["HTML5", "CSS", "JavaScript","ReactJS","MongoDB","ExpressJS","NodeJS","Radix UI","Tailwind CSS","Framer Motion","Redux","Vite","Axios","Mongoose","JWT","Cloudinary","Multer","DotEnv"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Job-Z-Local",
+    webapp: "https://job-z.onrender.com/",
+  },
 
 
 ];
