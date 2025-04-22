@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import { Mail } from '@mui/icons-material';
 import { Bio } from '../../data/constants';
 import { GitHub } from '@mui/icons-material';
 
@@ -87,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Hrishi Mehta</Logo>
+        <Logo>Hrishi Mehta 🗿</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -99,9 +100,11 @@ function Footer() {
           <SocialMediaIcon href={Bio.github} target="display"><GitHub/></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.Mail} target="display"><Mail /></SocialMediaIcon>
+
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2025 Hrishi Mehta. All rights reserved.
+          &copy; 2025 Hrishi Mehta. All Rights Reserved.
         </Copyright>
 
       </FooterWrapper>
