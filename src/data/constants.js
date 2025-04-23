@@ -397,7 +397,7 @@ export const experiences = [
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Python Developer Intern",
     company: "VaultOfCodes",
-    date: "March 2025 - April 2025",
+    date: "March 2025 - March 2025",
     desc: "Developing Python-based solutions and working on Python & liraries",
     skills: [
       
@@ -410,7 +410,7 @@ export const experiences = [
     img: "https://s3-eu-west-1.amazonaws.com/tpd/logos/645ca753484ec7b9c3eac245/0x0.png",
     role: "Artificial Intelligence (AI) Intern",
     company: "INeuBytes",
-    date: "Mar 2025 - April 2025",
+    date: "March 2025 - March 2025",
     desc: "Developing AI-based solutions and working on machine learning algorithms.",
     skills: [
       "Python",
@@ -425,7 +425,7 @@ export const experiences = [
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "VaultOfCodes",
-    date: "Nov 2024 - Dec 2024",
+    date: "Nov 2024 - Nov 2024",
     desc: "Performed penetration testing and worked on security protocols for various applications.",
     skills: [
       "Kali Linux",
@@ -440,7 +440,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/v2/C560BAQHbRc4KalclmA/company-logo_200_200/company-logo_200_200/0/1676715857373?e=2147483647&v=beta&t=XUYYqixCLqqWCiNLro3MdZH-mHvqFl3yJ5D9blVH_Mk",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "TechnoHacks EduTech Official",
-    date: "Sep 2024 - Oct 2024",
+    date: "Sept 2024 - Sept 2024",
     desc: "Worked on vulnerability assessments and ethical hacking assignments.",
     skills: [
       "Vulnerability Assessment",
@@ -455,7 +455,7 @@ export const experiences = [
     img: "https://p.urbanpro.com/tv-prod/member/photo/4142883-large.jpg",
     role: "Java Software Developer Intern",
     company: "SDAC",
-    date: "Jul 2024 - Feb 2025",
+    date: "July 2024 - Feb 2025",
     desc: "Developed Java-based applications and contributed to backend services.",
     skills: [
       "Java", "Apache",
