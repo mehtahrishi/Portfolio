@@ -672,3 +672,34 @@ export const projects = [
 
 
 ];
+export const volunteer = [
+  {
+    index: 0,
+    role: "Innovator",
+    organization: "Google Cloud Skills Boost",
+    date: "March 2025 - Present",
+    desc: "Focusing on personal growth through innovative problem-solving, learning cutting-edge cloud technologies, and fostering engagement within the tech community.",
+    img: "https://yt3.googleusercontent.com/1a3sAZKZj0xtTNPJCta6_MQ1wWfsjK2URS1S5bL_NJdDcYxLotkg4tWmlC1lz-K8kULyz2zHlUA=s900-c-k-c0x00ffffff-no-rj",
+    skills: ["Learning", "Innovation", "Community Engagement"],
+    // doc: "/documents/helpinghands-certificate.pdf"
+  },
+  {
+    index: 1,
+    role: "Microsoft Learn Student Ambassador",
+    organization: "Microsoft Learn Student Ambassadors",
+    date: "Jan 2025 - Present",
+    desc: "Actively contributing to teamwork-driven sustainability initiatives while empowering peers through social media and collaborative educational opportunities.",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHi2dLJT41UJQ/company-logo_200_200/company-logo_200_200/0/1706729722320?e=2147483647&v=beta&t=oyhnAeYozq9zsnmp3AXmFwWW5JdEZHHXkQVEKboO9Lo",
+    skills: ["Social Media", "Teamwork", "Sustainability"],
+    // doc: "/documents/greenearth-certificate.pdf"
+  },
+  {
+    index: 2,
+    role: "Member",
+    organization: "DLLE, Mumbai University (Department Of Lifelong Learning and Extension)",
+    date: "June 2024 - Present",
+    desc: "Supporting lifelong learning programs by mentoring others and advancing educational accessibility and community development.",
+    img: "https://www.mudlle.ac.in/wp-content/uploads/2022/01/cropped-DLLE-Logo.jpeg",
+    skills: [ "Mentorship", "Education"],
+  }
+];
