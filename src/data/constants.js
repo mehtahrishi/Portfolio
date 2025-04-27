@@ -180,19 +180,9 @@ export const skills = [
           "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongodb/mongodb-original.svg",
       },
       {
-        name: "PostgreSQL",
-        image:
-          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/postgresql/postgresql-original.svg",
-      },
-      {
         name: "MySQL",
         image:
           "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mysql/mysql-original.svg",
-      },
-      {
-        name: "SQLite",
-        image:
-          "https://sqlitebrowser.org/images/sqlitebrowser.svg",
       },
     ],
   },
@@ -607,7 +597,7 @@ export const projects = [
     date: "March 2025",
     description: "Developed a Python application that allows teachers to track student performance in different subjects. The application will be converted into a web-based project and deployed online to make it accessible.",
     image: "https://github.com/mehtahrishi/Student-Performance-Tracker/blob/master/image.png?raw=true",
-    tags: ["HTML5", "CSS", "JavaScript","Flask","Mongo","PyMongo","Procfile","Render"],
+    tags: ["HTML5", "CSS", "JavaScript","Flask","MongoDB","PyMongo","Procfile","Render"],
     category: "web app",
     github: "https://github.com/mehtahrishi/Student-Performance-Tracker",
     webapp: "https://student-performance-tracker-qlac.onrender.com/",
