@@ -664,8 +664,39 @@ export const projects = [
     github: "https://github.com/mehtahrishi/Job-Z-Local",
     webapp: "https://job-z.onrender.com/",
   },
-
-
+  {
+    id: 11,
+    title: "Spam Detector",
+    date: "April 2025",
+    description: "A spam detection system is designed to filter unwanted emails and SMS messages with high accuracy. It utilizes advanced algorithms to differentiate legitimate communication from spam. The interface incorporates Glassmorphism CSS for a sleek and modern design. The system integrates with email clients and messaging platforms for real-time detection. Users can customize filtering preferences to enhance the spam detection process.",
+    image: "https://github.com/mehtahrishi/Spam-Detector/blob/main/Screenshot%202025-05-02%20031141.png?raw=true", 
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Scikit-learn", "TensorFlow","ML","DL"],
+    category: "machine learning",
+    github: "https://github.com/mehtahrishi/Spam-Detector",
+    webapp: "https://spam-detector-myh7.onrender.com/",
+  },
+  {
+    id: 12,
+    title: "Model Comparison",
+    date: "April 2025",
+    description: "A study was conducted to compare the accuracy of different models for classification tasks. Long Short-Term Memory (LSTM), Support Vector Machine (SVM), and Logistic Regression models were trained using a dataset and evaluated for performance. The models underwent thorough training, testing, and validation to measure their effectiveness in handling sequential and non-sequential data. Accuracy metrics were analyzed, and a comparative assessment was performed to determine the most efficient model for the given task. The findings provided insights into the strengths and weaknesses of each approach.",
+    image: "https://github.com/mehtahrishi/ML---DL-Model-Comparison/blob/main/Screenshot%202025-03-31%20020833.png?raw=true", 
+    tags: ["Python","Bash","Torch","Pandas","Pickle","H5", "Scikit-learn", "TensorFlow","ML","DL","Dataset"],
+    category: "console app",
+    github: "https://github.com/mehtahrishi/ML---DL-Model-Comparison",
+    webapp: "https://github.com/mehtahrishi/ML---DL-Model-Comparison",
+  },
+  {
+    id: 13,
+    title: "Cifar-10 Image Classification with Kaggle Dataset",
+    date: "April 2025",
+    description: "A comparative study was conducted on CIFAR-10 image classification using both traditional and custom models. Standard architectures were implemented alongside a custom-designed deep learning model to evaluate performance. The models were trained, tested, and validated using the dataset, assessing their accuracy and efficiency in recognizing objects across multiple categories. Key metrics such as precision, recall, and overall classification accuracy were analyzed. The evaluation provided insights into the strengths of each approach and the potential benefits of custom model enhancements.",
+    image: "https://github.com/mehtahrishi/Cifar-10-Image-Classification/blob/main/actual_images_v2.png?raw=true", 
+    tags: ["Python","Bash","Torch","Pandas","Pickle","H5", "Scikit-learn", "TensorFlow","ML","Dataset","Kaggle"],
+    category: "console app",
+    github: "https://github.com/mehtahrishi/Cifar-10-Image-Classification",
+    webapp: "https://github.com/mehtahrishi/Cifar-10-Image-Classification",
+  },
 ];
 export const volunteer = [
   {
