@@ -65,6 +65,11 @@ export const skills = [
         image:
           "https://www.snel.com/wp-content/uploads/Ontwerp-zonder-titel-3-3.png",
       },
+    {
+        name: "Arch Linux",
+        image:
+          "https://static-00.iconduck.com/assets.00/archlinux-icon-2048x2048-q7549ths.png",
+      },
       {
         name: "Garuda Linux",
         image:
@@ -337,6 +342,26 @@ export const skills = [
         image:
           "https://www.primarymarkets.com/wp-content/uploads/2024/05/Groq-circle-logo-1.png",
       },
+       {
+        name: "Amazon Q",
+        image:
+          "https://d1.awsstatic.com/getting-started-guides/learning/amazon-q/icon_amazon-q.a5c38564734b6e9f611e9599eb271142389313a4.png",
+      },
+       {
+        name: "Ollama",
+        image:
+          "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png",
+      },
+      {
+        name: "Grok",
+        image:
+          "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok.png",
+      },
+      {
+        name: "Tabnine",
+        image:
+          "https://www.vsixgallery.com/extensions/tabnine-visual-studio/icon-1.173.1.png",
+      },
     ],
   },
   {
@@ -372,12 +397,23 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQG18yLAmVRJbw/company-logo_200_200/B56ZXxoQ53GcAI-/0/1743515619594?e=1752710400&v=beta&t=BQeT21EpkbLF-z3InuhLJi2_VE-p5TQGQw49u-gNeNQ",
+    role: "Cloud Computing Intern",
+    company: "Micro IT",
+    date: "May 2025 - Present",
+    desc: "Developing cloud-based solutions and working on development operations.",
+    skills: [
+     "AWS","GCP","Docker","Kubernetes","Terraform","Git","GitHub","CI/CD","Jenkins","Ansible","Linux","Bash","Python"
+    ],
+  },
+  {
+    id: 1,
     img: "https://media.licdn.com/dms/image/v2/C4E0BAQEA0V9yzn_dPg/company-logo_200_200/company-logo_200_200/0/1646199475973/edunetfoundation_logo?e=2147483647&v=beta&t=MwYNZQ_L6QvU9npy6rBiZvU7ZrsqQmcZ2kuRxam10WM",
     role: "Artificial Intelligence (AI) Intern",
     company: "Edunet Foundation",
-    date: "April 2025 - Present",
+    date: "April 2025 - April 2025",
     desc: "Developing AI-based solutions and working on machine learning algorithms.",
     skills: [
       "Python","AI Agents","LLM","RAG","Deep Learning",
@@ -388,7 +424,7 @@ export const experiences = [
     ],
   },
    {
-    id: 1,
+    id: 2,
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Python Developer Intern",
     company: "VaultOfCodes",
@@ -401,7 +437,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     img: "https://s3-eu-west-1.amazonaws.com/tpd/logos/645ca753484ec7b9c3eac245/0x0.png",
     role: "Artificial Intelligence (AI) Intern",
     company: "INeuBytes",
@@ -416,11 +452,11 @@ export const experiences = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "VaultOfCodes",
-    date: "Nov 2024 - Nov 2024",
+    date: "November 2024 - November 2024",
     desc: "Performed penetration testing and worked on security protocols for various applications.",
     skills: [
       "Kali Linux",
@@ -431,11 +467,11 @@ export const experiences = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     img: "https://media.licdn.com/dms/image/v2/C560BAQHbRc4KalclmA/company-logo_200_200/company-logo_200_200/0/1676715857373?e=2147483647&v=beta&t=XUYYqixCLqqWCiNLro3MdZH-mHvqFl3yJ5D9blVH_Mk",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "TechnoHacks EduTech Official",
-    date: "Sept 2024 - Sept 2024",
+    date: "September 2024 - September 2024",
     desc: "Worked on vulnerability assessments and ethical hacking assignments.",
     skills: [
       "Vulnerability Assessment",
@@ -446,11 +482,11 @@ export const experiences = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     img: "https://p.urbanpro.com/tv-prod/member/photo/4142883-large.jpg",
     role: "Java Software Developer Intern",
     company: "SDAC",
-    date: "July 2024 - Feb 2025",
+    date: "July 2024 - February 2025",
     desc: "Developed Java-based applications and contributed to backend services.",
     skills: [
       "Java", "Apache",
@@ -503,7 +539,7 @@ export const education = [
     school: "Maharashtra State Board Of Secondary And Higher Secondary Education",
     date: "2020",
     grade: "75.00%",
-    desc: "I completed my Secondary (X) education from St Paul's High School under Maharashtra State Board Of Secondary And Higher Secondary Education with a percentage of 75.00%.",
+    desc: "I completed my Secondary (X) education from St Paul's High School under Maharashtra State Board Of Secondary And Higher Secondary Education.",
     degree: "Secondary (X), Science",
   },
 ];
