@@ -397,19 +397,8 @@ export const skills = [
 ];
 
 export const experiences = [
-   {
-    id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQG18yLAmVRJbw/company-logo_200_200/B56ZXxoQ53GcAI-/0/1743515619594?e=1752710400&v=beta&t=BQeT21EpkbLF-z3InuhLJi2_VE-p5TQGQw49u-gNeNQ",
-    role: "Cloud Computing Intern",
-    company: "Micro IT",
-    date: "May 2025 - Present",
-    desc: "Developing cloud-based solutions and working on development operations.",
-    skills: [
-     "AWS","GCP","Docker","Kubernetes","Terraform","Git","GitHub","CI/CD","Jenkins","Ansible","Linux","Bash","Python"
-    ],
-  },
   {
-    id: 1,
+    id: 0,
     img: "https://media.licdn.com/dms/image/v2/C4E0BAQEA0V9yzn_dPg/company-logo_200_200/company-logo_200_200/0/1646199475973/edunetfoundation_logo?e=2147483647&v=beta&t=MwYNZQ_L6QvU9npy6rBiZvU7ZrsqQmcZ2kuRxam10WM",
     role: "Artificial Intelligence (AI) Intern",
     company: "Edunet Foundation",
@@ -424,7 +413,7 @@ export const experiences = [
     ],
   },
    {
-    id: 2,
+    id: 1,
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Python Developer Intern",
     company: "VaultOfCodes",
@@ -437,7 +426,7 @@ export const experiences = [
     ],
   },
   {
-    id: 3,
+    id: 2,
     img: "https://s3-eu-west-1.amazonaws.com/tpd/logos/645ca753484ec7b9c3eac245/0x0.png",
     role: "Artificial Intelligence (AI) Intern",
     company: "INeuBytes",
@@ -452,7 +441,7 @@ export const experiences = [
     ],
   },
   {
-    id: 4,
+    id: 3,
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "VaultOfCodes",
@@ -467,7 +456,7 @@ export const experiences = [
     ],
   },
   {
-    id: 5,
+    id: 4,
     img: "https://media.licdn.com/dms/image/v2/C560BAQHbRc4KalclmA/company-logo_200_200/company-logo_200_200/0/1676715857373?e=2147483647&v=beta&t=XUYYqixCLqqWCiNLro3MdZH-mHvqFl3yJ5D9blVH_Mk",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "TechnoHacks EduTech Official",
@@ -482,7 +471,7 @@ export const experiences = [
     ],
   },
   {
-    id: 6,
+    id: 5,
     img: "https://p.urbanpro.com/tv-prod/member/photo/4142883-large.jpg",
     role: "Java Software Developer Intern",
     company: "SDAC",
