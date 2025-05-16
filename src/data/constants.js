@@ -744,6 +744,17 @@ export const projects = [
     github: "https://github.com/mehtahrishi/Alien-Interview-Simulator",
     webapp: "https://alien-interview-simulator.onrender.com/",
   },
+    {
+    id: 16,
+    title: "Suho PDF Reader",
+    date: "May 2025",
+    description: "A sophisticated AI-powered PDF analysis tool designed to identify various document types and provide detailed summaries. It offers smart document classification, comprehensive summaries with key insights, and a modern glassmorphic user interface for an intuitive experience. Users can easily upload files with a drag-and-drop feature, ensuring seamless usability. Powered by the Llama 3 model via Groq's implementation, it delivers high-quality analysis while prioritizing privacy by processing files locally without permanent storage.",
+    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1747428966/Screenshot_2025-05-17_014519_ka3rpf.png", 
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Python","JSON","RESTful API","Groq","Llama 3"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Suho-Pdf-Reader",
+    webapp: "https://suho-pdf-reader.onrender.com/",
+  },
 ];
 export const volunteer = [
   {
