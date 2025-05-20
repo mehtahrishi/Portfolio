@@ -755,6 +755,17 @@ export const projects = [
     github: "https://github.com/mehtahrishi/Suho-Pdf-Reader",
     webapp: "https://suho-pdf-reader.onrender.com/",
   },
+      {
+    id: 17,
+    title: "Curr AI Agent",
+    date: "May 2025",
+    description: "Curr AI Agent is an intelligent web application that allows users to upload PDF and PowerPoint (.pptx) documents and interact with their content through an AI-powered chat interface. Ask questions about your documents, get summaries, and find specific information quickly and efficiently. Powered by Google's Gemini large language model and built with Python (Flask) and modern web technologies.",
+    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1747774149/Screenshot_2025-05-21_021516_gjbvil.png", 
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Python","RESTful API","Gemini API","Cloudinary","Google Generative AI","Redis Cloud Session Storage","Flask-Session"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Curr_Agent",
+    webapp: "https://curr-agent.onrender.com/",
+  },
 ];
 export const volunteer = [
   {
