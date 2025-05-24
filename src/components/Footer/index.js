@@ -1,9 +1,12 @@
 import styled from 'styled-components';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import { LogoDev } from '@mui/icons-material';
 import { Mail } from '@mui/icons-material';
 import { Bio } from '../../data/constants';
 import { GitHub } from '@mui/icons-material';
+import { SiMedium, SiAmazonaws } from 'react-icons/si'; // new imports
+
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -103,6 +106,10 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.Mail} target="display"><Mail /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.LogoDev} target="display"><LogoDev/></SocialMediaIcon>
+           <SocialMediaIcon href={Bio.medium} target="_blank"><SiMedium /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.aws} target="_blank"><SiAmazonaws /></SocialMediaIcon>
+
 
         </SocialMediaIcons>
         <Copyright>

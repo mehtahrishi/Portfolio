@@ -14,7 +14,10 @@ resume:
     "https://profile.indeed.com/p/hrishim-jdb8j4j",
   linkedin: "https://www.linkedin.com/in/hrishi-mehta-889732256/",
   insta: "https://www.instagram.com/_mehtahrishi/",
-  Mail:"mailto:mehtahrishi45@gmail.com"
+  Mail:"mailto:mehtahrishi45@gmail.com",
+  LogoDev: "https://dev.to/mehtahrishi",
+  medium: "https://medium.com/@mehtahrishi45",
+  aws: "https://community.aws/@mehtahrishi",
 };
 
 export const skills = [
