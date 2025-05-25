@@ -581,7 +581,7 @@ export const projects = [
   {
     id: 1,
     title: "Tech Savvy Assistant Chatbot",
-    date: "Jan 2025",
+    date: "January 2025",
     description:
       "A Savier for Developers, Engineers, Testers, and Hardware Individuals who get stuck in errors and issues in tools, software, hardware, and hardware components. She can help you with her intelligence.",
     image:
@@ -649,7 +649,7 @@ export const projects = [
   {
     id: 7,
     title: "Console Based Foodie Chatbot",
-    date: "Sep 2024",
+    date: "September 2024",
     description:
       "A Foodie Console Based Chatbot made using Python, XML, and AIML. It helps users find recipes and offers information on various food items. It also provides API integration for fetching recipes from external sources.",
     image:
@@ -768,6 +768,17 @@ export const projects = [
     category: "web app",
     github: "https://github.com/mehtahrishi/Curr_Agent",
     webapp: "https://curr-agent.onrender.com/",
+  },
+   {
+    id: 18,
+    title: "Enum AI Agent",
+    date: "May 2025",
+    description: "Enum is an intelligent web application designed to analyze and extract core information from any website URL you provide. Built with a sleek, modern glassmorphic UI, it leverages the power of Python for robust web scraping (including dynamic JavaScript-rendered sites) and Google's Gemini API for advanced natural language understanding. Get quick insights into what a company is, what it does, and its industry, all read aloud for convenience, with a visual snapshot of the website itself. Plus, easily revisit past analyses with a dedicated history section.",
+    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1748147659/Screenshot_2025-05-25_090418_xbhmye.png", 
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Python","RESTful API","Gemini API","Google Generative AI","MongoDB","Flask-PyMongo","Playwright"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/enum",
+    webapp: "https://enum-2c0t.onrender.com/",
   },
 ];
 export const volunteer = [
