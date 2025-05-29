@@ -151,14 +151,6 @@ export const skills = [
         image: "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/python/python-original.svg",
       },
       {
-        name: "C",
-        image: "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/c/c-original.svg",
-      },
-      {
-        name: "C++",
-        image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg",
-      },
-      {
         name: "Node JS",
         image: "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nodejs/nodejs-original.svg",
       },
@@ -361,9 +353,9 @@ export const skills = [
           "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok.png",
       },
       {
-        name: "Tabnine",
+        name: "Cursor",
         image:
-          "https://www.vsixgallery.com/extensions/tabnine-visual-studio/icon-1.173.1.png",
+          "https://img.icons8.com/fluent/512/cursor-ai.png",
       },
     ],
   },
