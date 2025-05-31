@@ -798,7 +798,7 @@ export const volunteer = [
     index: 2,
     role: "Member",
     organization: "DLLE, Mumbai University (Department Of Lifelong Learning and Extension)",
-    date: "June 2024 - Present",
+    date: "June 2024 - May 2025",
     desc: "Supporting lifelong learning programs by mentoring others and advancing educational accessibility and community development.",
     img: "https://www.mudlle.ac.in/wp-content/uploads/2022/01/cropped-DLLE-Logo.jpeg",
     skills: [ "Mentorship", "Education"],
