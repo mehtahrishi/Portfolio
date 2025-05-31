@@ -504,8 +504,8 @@ export const education = [
     img: "https://media.collegedekho.com/media/img/university/mumbai-university-result-2015.jpg",
     school: "University of Mumbai",
     date: "2022 - 2025",
-    grade: "Pursuing",
-    desc: "I am currently pursuing a Bachelor's degree in Information Technology at University of Mumbai. The course covers topics such as Web Development, Cybersecurity, Networking, Cloud Development and Database Management Systems.",
+    grade: "8.72",
+    desc: "I completed my Bachelor's degree in Information Technology at University of Mumbai. The course covers topics such as Web Development, Cybersecurity, Networking, Cloud Development and Database Management Systems.",
     degree: "Bachelor of Science (B.Sc), Information Technology",
   },
   {
