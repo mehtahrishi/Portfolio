@@ -761,16 +761,17 @@ export const projects = [
     github: "https://github.com/mehtahrishi/Curr_Agent",
     webapp: "https://curr-agent.onrender.com/",
   },
-   {
+   
+  {
     id: 18,
-    title: "Enum AI Agent",
-    date: "May 2025",
-    description: "Enum is an intelligent web application designed to analyze and extract core information from any website URL you provide. Built with a sleek, modern glassmorphic UI, it leverages the power of Python for robust web scraping (including dynamic JavaScript-rendered sites) and Google's Gemini API for advanced natural language understanding. Get quick insights into what a company is, what it does, and its industry, all read aloud for convenience, with a visual snapshot of the website itself. Plus, easily revisit past analyses with a dedicated history section.",
-    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1748147659/Screenshot_2025-05-25_090418_xbhmye.png", 
-    tags: ["HTML5", "CSS", "JavaScript","Flask", "Python","RESTful API","Gemini API","Google Generative AI","MongoDB","Flask-PyMongo","Playwright"],
+    title: "Emoji Rumble",
+    date: "June 2025",
+    description: "Emoji Rumble is a browser-based bullet hell survival game where players control an emoji to dodge endless waves of attacking enemy emojis. The longer you survive, the more difficult the game becomes. Compete on the leaderboard and track your survival history!",
+    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1748982694/Screenshot_2025-06-04_020031_zsrtbj.png", 
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Python","RESTful API","MongoDB","Flask-PyMongo","Canvas API","Cloudinary"],
     category: "web app",
-    github: "https://github.com/mehtahrishi/enum",
-    webapp: "https://enum-2c0t.onrender.com/",
+    github: "https://github.com/mehtahrishi/Emoji-Rumble",
+    webapp: "https://emoji-rumble.onrender.com/",
   },
 ];
 export const volunteer = [
