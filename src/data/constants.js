@@ -93,7 +93,11 @@ export const skills = [
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
-     
+     {
+        name: "NextJS",
+        image:
+          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nextjs/nextjs-original.svg",
+      },
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -113,12 +117,6 @@ export const skills = [
         image:
           "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/typescript/typescript-original.svg",
       },
-      {
-        name: "Sass",
-        image:
-          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/sass/sass-original.svg",
-      },
-     
       {
         name: "Bootstrap",
         image:
@@ -180,14 +178,14 @@ export const skills = [
           "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongodb/mongodb-original.svg",
       },
       {
-        name: "MySQL",
-        image:
-          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mysql/mysql-original.svg",
-      },
-      {
         name: "Neon",
         image:
           "https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c",
+      },
+      {
+        name: "Supabase",
+        image:
+          "https://img.icons8.com/color/512/supabase.png",
       },
     ],
   },
@@ -275,6 +273,11 @@ export const skills = [
         image:
           "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/jenkins/jenkins-original.svg",
       },
+      {
+        name: "Redis",
+        image:
+          "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/redis/redis-original.svg",
+      },
 
       
     ],
@@ -343,9 +346,9 @@ export const skills = [
           "https://d1.awsstatic.com/getting-started-guides/learning/amazon-q/icon_amazon-q.a5c38564734b6e9f611e9599eb271142389313a4.png",
       },
        {
-        name: "Ollama",
+        name: "Qodo Gen",
         image:
-          "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png",
+          "https://codium.gallerycdn.vsassets.io/extensions/codium/codium/1.5.2/1749997980233/Microsoft.VisualStudio.Services.Icons.Default",
       },
       {
         name: "Grok",
@@ -772,6 +775,17 @@ export const projects = [
     category: "web app",
     github: "https://github.com/mehtahrishi/Emoji-Rumble",
     webapp: "https://emoji-rumble.onrender.com/",
+  },
+  {
+    id: 19,
+    title: "Skill-Surge",
+    date: "June 2025",
+    description: "SkillSurge is a modern, AI-enhanced web application built with Next.js. It empowers users to connect, learn, and teach skills through a peer-to-peer swapping system. Leveraging cutting-edge AI, SkillSurge offers intelligent matchmaking, personalized skill suggestions, and an interactive chatbot to guide users on their learning journey.",
+    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1750284518/Screenshot_2025-06-10_154322_orb6tj.png", 
+    tags: ["NextJS","ReactJS","ExpressJS","NodeJS","TailWindCSS","RESTful API","Cloudinary","Firebase Store","Firebase Auth","Vercel"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Skills_Surge",
+    webapp: "https://skills-surge.vercel.app/",
   },
 ];
 export const volunteer = [
