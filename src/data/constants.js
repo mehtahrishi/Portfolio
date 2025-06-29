@@ -397,6 +397,19 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQGTB7Nbb_R6qg/company-logo_200_200/company-logo_200_200/0/1719826831474?e=1756944000&v=beta&t=y4MlRjfzc1EThew8qsLPWJ-MstcEvJLw_ZFVKVhw78U",
+    role: "Python Developer Intern",
+    company: "Codotech",
+    date: "June 2025 - July 2025",
+    desc: "Developing Python-based solutions, Machine Learning Solutions and worked on Python & liraries",
+    skills: [
+      
+      "Python","Numpy","HTML","CSS","Flask","Django","OOP","Procfile","Machine Learning","Deep Learning","AI Models", "Pandas", " NumPy "," NLTK","Torch","NLP"
+      
+    ],
+  },
+  {
+    id: 1,
     img: "https://media.licdn.com/dms/image/v2/C4E0BAQEA0V9yzn_dPg/company-logo_200_200/company-logo_200_200/0/1646199475973/edunetfoundation_logo?e=2147483647&v=beta&t=MwYNZQ_L6QvU9npy6rBiZvU7ZrsqQmcZ2kuRxam10WM",
     role: "Artificial Intelligence (AI) Intern",
     company: "Edunet Foundation",
@@ -411,7 +424,7 @@ export const experiences = [
     ],
   },
    {
-    id: 1,
+    id: 2,
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Python Developer Intern",
     company: "VaultOfCodes",
@@ -424,8 +437,8 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
-    img: "https://s3-eu-west-1.amazonaws.com/tpd/logos/645ca753484ec7b9c3eac245/0x0.png",
+    id: 3,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_DnatV2bI2hNirKJU7RSroaF4Iz7cK9CNoA&s",
     role: "Artificial Intelligence (AI) Intern",
     company: "INeuBytes",
     date: "March 2025 - March 2025",
@@ -439,7 +452,7 @@ export const experiences = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     img: "https://ali-cdn-diy-public.classplus.co/prod/Logo_1718989913215.png",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "VaultOfCodes",
@@ -454,7 +467,7 @@ export const experiences = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     img: "https://media.licdn.com/dms/image/v2/C560BAQHbRc4KalclmA/company-logo_200_200/company-logo_200_200/0/1676715857373?e=2147483647&v=beta&t=XUYYqixCLqqWCiNLro3MdZH-mHvqFl3yJ5D9blVH_Mk",
     role: "Cyber Security and Ethical Hacking Intern",
     company: "TechnoHacks EduTech Official",
@@ -469,7 +482,7 @@ export const experiences = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     img: "https://p.urbanpro.com/tv-prod/member/photo/4142883-large.jpg",
     role: "Java Software Developer Intern",
     company: "SDAC",
@@ -786,6 +799,39 @@ export const projects = [
     category: "web app",
     github: "https://github.com/mehtahrishi/Skills_Surge",
     webapp: "https://skills-surge.vercel.app/",
+  },
+  {
+    id: 20,
+    title: "GlassBot",
+    date: "June 2025",
+    description: "GlassBot is a calm and minimalist chatbot interface built for tranquil, distraction-free conversations. Designed with an elegant glassmorphic aesthetic, it features smooth blur effects and soft gradients for a visually soothing experience. Users can toggle between light and dark modes with seamless background transitions, while an animated typing effect adds a gentle human-like touch. A slide-out tray offers quick access to social links like GitHub, LinkedIn, and Email. Lightweight and easy to customize, GlassBot is perfect for developers seeking a clean, low-maintenance chatbot UI that balances beauty with technical simplicity.",
+    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1751213172/Screenshot_2025-06-29_213550_fzf6gp.png", 
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Python","RESTful API","NLP","ML"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Codotech/tree/main/Chatbot-Using-NLP",
+    webapp: "https://codotech.onrender.com/",
+  },
+  {
+    id: 21,
+    title: "Music Reccommendation System",
+    date: "June 2025",
+    description: "Chirpify is a sleek, artist-centric music player web app powered by Python and Flask, designed to generate personalized playlists based on your listening habits. With intuitive playback controls and a visually stunning glassmorphic UI, it delivers a premium audio experience using only a curated local song library—no external APIs required. Its smart AI learns your favorite artists over time, crafting dynamic, ever-evolving playlists, while the “Discovery Mix” mode introduces you to fresh talent by sampling other artists in the collection. Fast, private, and built for exploration, Chirpify redefines how you discover music.",
+    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1751204348/Screenshot_2025-06-28_165809_dfvbpd.png", 
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Python","RESTful API","Pandas","Cloudinary","Numpy","ML"],
+    category: "machine learning",
+    github: "https://github.com/mehtahrishi/Codotech/tree/main/Music-Player-App",
+    webapp: "https://codotech-1.onrender.com/",
+  },
+  {
+    id: 22,
+    title: "PassGen - Password Generator",
+    date: "June 2025",
+    description: "PassGen is a secure and user-friendly password generator that blends strong functionality with stunning design. It allows users to create highly customizable passwords with options for length and character types, ensuring both flexibility and strength. A standout feature is its auto-refresh mechanism, which updates the password every 10 seconds, guided by a smooth visual countdown. Users can effortlessly copy passwords with one click, making it as convenient as it is secure. With a sleek, modern interface and a focus on usability, PassGen delivers a reliable tool for anyone looking to enhance their digital security with ease and style.",
+    image: "https://res.cloudinary.com/dfzqhhywm/image/upload/v1751214170/Screenshot_2025-06-28_173255_x8dctu.png",
+    tags: ["HTML5", "CSS", "JavaScript","Flask", "Python","Render"],
+    category: "web app",
+    github: "https://github.com/mehtahrishi/Codotech/tree/main/Random-Password-Generator",
+    webapp: "https://codotech-2.onrender.com/",
   },
 ];
 export const volunteer = [
